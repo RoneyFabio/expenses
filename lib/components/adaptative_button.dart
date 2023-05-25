@@ -4,6 +4,7 @@ import 'package:flutter/material.dart';
 
 class AdaptativeButton extends StatelessWidget {
   final String label;
+  final String nome;
   final Function() onPressed;
   final String? name;
 
